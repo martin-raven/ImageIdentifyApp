@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatIsIt</string>
+    <string name="FromCAmera">Take a Picture</string>
+    <string name="FromGallery">Import From Gallery</string>
+</resources>
